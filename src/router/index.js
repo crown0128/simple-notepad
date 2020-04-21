@@ -9,7 +9,8 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: Home
+    component: Home,
+    meta: {title: 'Simple Online Notepad'}
   },
   {
     path: '/contact',

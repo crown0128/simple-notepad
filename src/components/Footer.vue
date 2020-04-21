@@ -3,7 +3,7 @@
   <footer>
 
       <div class="container text-center">
-        <p>© 2020 - Created by Mohcin Bounouara</p>
+        <p>© 2020 - Created by <a href="https://twitter.com/BN_Geek">Mohcin</a></p>
       </div>
 
   </footer>
